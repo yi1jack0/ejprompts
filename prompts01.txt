@@ -1,0 +1,2 @@
+Please summarize the entire task and requirements we’ve discussed into a single detailed prompt that I can use to reproduce this request in the future.
+
