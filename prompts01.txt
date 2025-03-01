@@ -1,2 +1,4 @@
 Please summarize the entire task and requirements we’ve discussed into a single detailed prompt that I can use to reproduce this request in the future.
 
+Structure the following story with a clear logical arc and vivid, specific sensory details (colors, textures, spatial relationships) while repeating key elements consistently to ensure both LLMs and image generators interpret and visualize the narrative effectively.
+
