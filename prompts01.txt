@@ -2,3 +2,4 @@ Please summarize the entire task and requirements we’ve discussed into a singl
 
 Structure the following story with a clear logical arc and vivid, specific sensory details (colors, textures, spatial relationships) while repeating key elements consistently to ensure both LLMs and image generators interpret and visualize the narrative effectively.
 
+convert the above blog in a substack post , that is engaging and funny. break it down into the most atomic, self-contained steps possible. Each step will be designed to be as independent as feasible, requiring minimal reliance on previous steps. Where steps can be executed in parallel, structure them accordingly. After performing each step separately, reintegrate the results into a coherent final response.
